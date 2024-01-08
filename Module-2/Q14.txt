@@ -1,0 +1,3 @@
+Que-14 What are negative indexes and why are they used?
+
+To manipulate sequence objects such as lists, arrays, strings, etc

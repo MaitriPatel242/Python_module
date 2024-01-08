@@ -1,0 +1,4 @@
+Que-4 How memory is managed in Python?
+
+Python uses a memory manager to manage memory allocation and deallocation. The memory manager is responsible for allocating memory to Python objects and tracking which objects are currently in use. Python has two types of memory that it uses: stack memory and heap memory.
+
